@@ -1,4 +1,5 @@
 /* I will be adding more of css to this project for more people can view them */
-header {
+.header {
   background-color: CornflowerBlue;
+  text-align: center;
 }
