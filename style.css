@@ -13,5 +13,9 @@
   font-weight: bold;
 }
 h1 {
-  background-color: Azure;
+  color: Azure;
+}
+body {
+  font-family: Georgia;
+  background-image: URL('https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');
 }
